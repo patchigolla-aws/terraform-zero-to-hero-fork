@@ -1,3 +1,20 @@
+How to create the github codespaces
+
+> dev add container configuration file
+select the  Modify your active configuration.
+
+serarch for terrafrom which tick mark one 
+and keep the default
+
+and same select aws also
+
+then you need to do rebuild
+
+> rebuild container
+
+
+
+
 # Terraform Zero to Hero course
 
 ## Day 1: Getting Started with Terraform
